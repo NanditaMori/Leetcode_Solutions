@@ -2,12 +2,14 @@ class Solution {
     public int countCommas(int n) {
         int commas = 0;
 
-        for (int i = 1000; i <= n; i *= 1000) {
-            commas += n - i + 1;
-            
-            if (i > n / 1000)
-                break;
-        }
+        if (n >= 1000)
+            commas += n - 999;
+
+        if (n >= 1000000)
+            commas += n - 999999;
+
+        if (n >= 1000000000)
+            commas += n - 999999999;
 
         return commas;
     }
