@@ -44,11 +44,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0242-valid-anagram](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 ## Sliding Window
 |  |
 | ------- |
@@ -69,4 +71,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
