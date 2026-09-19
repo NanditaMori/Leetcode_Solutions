@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/0041-first-missing-positive) |
 | [0088-merge-sorted-array](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/0041-first-missing-positive) |
+| [0169-majority-element](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/0290-word-pattern) |
@@ -86,16 +88,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
