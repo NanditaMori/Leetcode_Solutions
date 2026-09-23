@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/1929-concatenation-of-array) |
 ## Simulation
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Dynamic Programming
 |  |
