@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/1929-concatenation-of-array) |
 ## Prefix Sum
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/0412-fizz-buzz) |
 | [3099-harshad-number](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/3099-harshad-number) |
 | [3870-count-commas-in-range](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/3871-count-commas-in-range-ii) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0412-fizz-buzz](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/0412-fizz-buzz) |
 ## Sliding Window
 |  |
 | ------- |
