@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/0412-fizz-buzz) |
+| [0796-rotate-string](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/0796-rotate-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -134,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/0268-missing-number) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
