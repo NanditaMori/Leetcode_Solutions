@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/1929-concatenation-of-array) |
+| [2540-minimum-common-value](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/2540-minimum-common-value) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Simulation
 |  |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [2540-minimum-common-value](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/2540-minimum-common-value) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 ## String
 |  |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0541-reverse-string-ii](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/0541-reverse-string-ii) |
+| [2540-minimum-common-value](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/2540-minimum-common-value) |
 ## Binary Search
 |  |
 | ------- |
@@ -114,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/0704-binary-search) |
+| [2540-minimum-common-value](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/2540-minimum-common-value) |
 ## Sorting
 |  |
 | ------- |
