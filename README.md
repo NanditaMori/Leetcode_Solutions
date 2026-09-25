@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/0412-fizz-buzz) |
+| [0836-rectangle-overlap](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/0836-rectangle-overlap) |
 | [3099-harshad-number](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/3099-harshad-number) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/3870-count-commas-in-range) |
@@ -145,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/0796-rotate-string) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
