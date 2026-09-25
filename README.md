@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/0412-fizz-buzz) |
+| [0541-reverse-string-ii](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/0541-reverse-string-ii) |
 | [0796-rotate-string](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/0796-rotate-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Sliding Window
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0541-reverse-string-ii](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/0541-reverse-string-ii) |
 ## Binary Search
 |  |
 | ------- |
