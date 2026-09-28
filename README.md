@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/0412-fizz-buzz) |
 | [0541-reverse-string-ii](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/0541-reverse-string-ii) |
 | [0796-rotate-string](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/0796-rotate-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Sliding Window
@@ -161,4 +162,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/0836-rectangle-overlap) |
+## Stack
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
