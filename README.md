@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/0392-is-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/0678-valid-parenthesis-string) |
 ## Linked List
 |  |
 | ------- |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/0412-fizz-buzz) |
 | [0541-reverse-string-ii](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/0541-reverse-string-ii) |
+| [0678-valid-parenthesis-string](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/0796-rotate-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -176,15 +178,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Brainteaser
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/2396-strictly-palindromic-number) |
+## Greedy
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
