@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Simulation
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/0392-is-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/0678-valid-parenthesis-string) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Linked List
 |  |
 | ------- |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/NanditaMori/Leetcode_Solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Trie
 |  |
 | ------- |
